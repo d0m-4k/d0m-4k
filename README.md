@@ -2,4 +2,5 @@
 
 ![](https://d0m-4k.github.io/static/git_static_langs.svg)
 
-![](https://img.shields.io/badge/telegram-%40dom4k-blue?style=social&logo=telegram&logoColor=%2326A5E4&link=https%3A%2F%2Ft.me%2Fdom_4k)
+![](https://img.shields.io/badge/telegram-%40dom4k-red?style=flat&logo=telegram&logoColor=%2326A5E4&color=%2326A5E4)
+![](https://img.shields.io/badge/youtube-%40dom4k-red?style=flat&logo=youtube&logoColor=%23FF0000&color=%23FF0000)
