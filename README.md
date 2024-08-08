@@ -2,4 +2,4 @@
 
 ![](https://d0m-4k.github.io/static/git_static_langs.svg)
 
-![Static Badge](https://img.shields.io/badge/telegram?logo=telegram&logoColor=%2326A5E4)
+![](https://img.shields.io/badge/telegram-%40dom4k-blue?style=social&logo=telegram&logoColor=%2326A5E4)
